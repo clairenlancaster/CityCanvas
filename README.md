@@ -2,6 +2,9 @@
 
 City Canvas was my final project for the [Northcoders'](https://northcoders.com/our-courses/coding-bootcamp) Software Engineering Bootcamp. This was a team endeavour, involving five other developers.
 
+---
+---
+
 ## 🔗 Links:
 
 Link to City Canvas video demo: tbc.
